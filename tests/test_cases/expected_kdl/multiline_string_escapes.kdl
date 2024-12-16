@@ -1,0 +1,1 @@
+node "foo\\  bar baz\n\t\\t \b\f\n\r\n\"\"\""
